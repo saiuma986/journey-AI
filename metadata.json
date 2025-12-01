@@ -1,0 +1,5 @@
+{
+  "name": "Journey AI",
+  "description": "An AI-powered travel assistant that generates personalized travel guides, interactive maps, and fun challenges for any destination. Simply enter a location and your interests to start your virtual journey.",
+  "requestFramePermissions": []
+}
